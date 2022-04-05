@@ -1,1 +1,3 @@
-# alx-system_engineering-devops
+ALL THIS SCRIPT DOES IS 
+PRINTS Hello, World
+
